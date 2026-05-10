@@ -1,0 +1,4 @@
+Heart Rate Alert Accuracy: 1.0000
+SpO2 Level Alert Accuracy: 1.0000
+Blood Pressure Alert Accuracy: 0.8717
+Temperature Alert Accuracy: 0.9063
